@@ -22,7 +22,7 @@ hr {
   opacity: 1;
 }
 .container {
-  margin-top: 400px;
+  margin-top: 290px;
   text-align: center;
   display: inline-block;
   vertical-align: middle;
@@ -34,7 +34,9 @@ hr {
   height: 100%;
   width: 100%;
 }
-
+.buffer {
+  height: 12rem;
+}
 .btn {
   border-radius: 25px;
   font-size: 15px;
